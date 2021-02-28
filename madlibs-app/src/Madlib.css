@@ -1,0 +1,13 @@
+.Madlib {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 80vh;
+}
+
+.Madlib-story {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
