@@ -1,0 +1,3 @@
+[submodule "madlibs-app"]
+	path = madlibs-app
+	url = https://github.com/jbenjoy2/madlibs.git
